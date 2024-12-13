@@ -1,9 +1,9 @@
 const cacheName = "SS-Demo-0.0.0.1";
 const contentToCache = [
     "Build/Demo.github.io.loader.js",
-    "Build/Demo.github.io.framework.js.gz",
-    "Build/Demo.github.io.data.gz",
-    "Build/Demo.github.io.wasm.gz",
+    "Build/Demo.github.io.framework.js",
+    "Build/Demo.github.io.data",
+    "Build/Demo.github.io.wasm",
     "TemplateData/style.css"
 
 ];
