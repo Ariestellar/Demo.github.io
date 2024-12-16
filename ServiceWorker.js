@@ -1,4 +1,4 @@
-const cacheName = "SS-Demo-0.0.0.1";
+const cacheName = "SS-NewYearsDemo-0.0.0.1";
 const contentToCache = [
     "Build/Demo.github.io.loader.js",
     "Build/Demo.github.io.framework.js",

@@ -1,6 +1,6 @@
 {
-    "name": "Demo",
-    "short_name": "Demo",
+    "name": "NewYearsDemo",
+    "short_name": "NewYearsDemo",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
